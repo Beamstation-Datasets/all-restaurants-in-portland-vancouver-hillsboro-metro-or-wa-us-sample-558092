@@ -1,0 +1,12 @@
+{
+  "export_job_id": "cb55aabb-905a-490c-85ba-0a7755385188",
+  "id_short": 558092,
+  "published_at": "2026-04-13T07:07:10Z",
+  "repo_name": "all-restaurants-in-portland-vancouver-hillsboro-metro-or-wa-us-sample-558092",
+  "sample_asset_name": "beamstation_558092_restaurants-us-portlandvancouverhillsboroorwa_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/558092/beamstation_558092_restaurants-us-portlandvancouverhillsboroorwa_SAMPLE_DIST.csv",
+  "sample_records": 644,
+  "sample_sha256": "40f8d082567a30cf33b27ac96612ed17abcfaad16c500e03e30fc95c37b9b555",
+  "sample_size_bytes": 2167537,
+  "total_records": 6447
+}
