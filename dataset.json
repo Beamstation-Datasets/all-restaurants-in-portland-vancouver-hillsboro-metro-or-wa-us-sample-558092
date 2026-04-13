@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Restaurant census for the Portland-Vancouver-Hillsboro metro spanning Oregon and Washington. Covers the Pacific Northwest's creative dining scene, filtered by the Restaurants category group. Includes verified business profiles, review sentiment, competitive rankings, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Portland-Vancouver-Hillsboro (Metro), OR-WA, US",
+  "export_job_id": "cb55aabb-905a-490c-85ba-0a7755385188",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 558092,
+  "location_name": "Portland-Vancouver-Hillsboro, OR-WA",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-portland-vancouver-hillsboro-metro-or-wa-us-sample-558092",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/558092/beamstation_558092_restaurants-us-portlandvancouverhillsboroorwa_SAMPLE_DIST.csv",
+  "sample_pct": 9.99,
+  "sample_records": 644,
+  "sample_sha256": "40f8d082567a30cf33b27ac96612ed17abcfaad16c500e03e30fc95c37b9b555",
+  "sample_size_bytes": 2167537,
+  "total_records": 6447,
+  "updated_at": "2026-04-07T14:15:23.868154+00:00"
+}
