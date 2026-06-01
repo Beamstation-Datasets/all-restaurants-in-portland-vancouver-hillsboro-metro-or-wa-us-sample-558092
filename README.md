@@ -1,6 +1,6 @@
 # All Restaurants in Portland-Vancouver-Hillsboro (Metro), OR-WA, US
 
-> Free BeamStation sample export with 643 rows and masked direct-contact fields.
+> Free BeamStation sample export with 691 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `558092` |
 | Location | Portland-Vancouver-Hillsboro, OR-WA |
 | Category | Restaurants |
-| Full dataset size | 6,430 records |
-| Free sample size | 643 records (10.0%) |
-| Last export | 2026-04-29T03:08:56.788093+00:00 |
+| Full dataset size | 6,915 records |
+| Free sample size | 691 records (9.99%) |
+| Last export | 2026-05-14T21:35:02.449325+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-portland-vancouver-hillsboro-metro-or-wa-us-sample-558092/releases/download/sample-latest/beamstation_558092_restaurants-us-portlandvancouverhillsboroorwa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
